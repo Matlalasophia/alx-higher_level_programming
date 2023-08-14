@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-import sring
+import string
 print(string.ascii_uppercase)
